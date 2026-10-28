@@ -1,10 +1,10 @@
 {
  "v": 1,
- "version": "2.2",
- "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v2.2/BSO-Overlays-2.2.bso",
- "sha256": "3b20ca02a1034bba0faefd6a726d6a5f415f6e936e9f5668b6929a40ceb53164",
- "size": 62645448,
- "notes": "Importar overlay, notifica\u00e7\u00f5es por voz (3 femininas e 3 masculinas) e melhorias",
- "date": "2026-10-28T20:23:40.910558+00:00",
- "sig": "RwKhnuSx17zEHKIohTG11zYledUqJ12Y9YB22KFJFXHDhoQCURpwD3njJFb11eMJZ6kzyr55iHnv1ukXIT36Bw"
+ "version": "2.3",
+ "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v2.3/BSO-Overlays-2.3.bso",
+ "sha256": "287b1f9904209e2b25468920bf9b33ae0e9604fba242c076918005ce62009e61",
+ "size": 62646689,
+ "notes": "Importar overlay, notifica\u00e7\u00f5es por voz (3 femininas e 3 masculinas), atualiza\u00e7\u00e3o autom\u00e1tica corrigida",
+ "date": "2026-10-28T20:34:17.951962+00:00",
+ "sig": "ANGgX85EFmfDXDHGqe1imGe0gzx9DESlhcQoGXvztWoFJ5RH4PxYJj2LYFAHoSpmhPMTxFERKfevGLzBkJX_Bg"
 }
