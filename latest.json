@@ -1,10 +1,10 @@
 {
  "v": 1,
- "version": "2.1",
- "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v2.1/BSO-Overlays-2.1.bso",
- "sha256": "7151b907478ca4ba27af3754dbaedd1aed09eebeb221357847ebc9b6b3f06266",
- "size": 26407632,
- "notes": "Primeira vers\u00e3o p\u00fablica do Bernal Systems Overlays",
- "date": "2026-10-28T17:19:32.732534+00:00",
- "sig": "VlUwCS6SmvdTR3w72yBpLj-DyQnp89syi_-EgGSkFZYxDVDATJSUr0h006pcgJL1KvlDTnEULA2j3_67ikwUBg"
+ "version": "2.2",
+ "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v2.2/BSO-Overlays-2.2.bso",
+ "sha256": "3b20ca02a1034bba0faefd6a726d6a5f415f6e936e9f5668b6929a40ceb53164",
+ "size": 62645448,
+ "notes": "Importar overlay, notifica\u00e7\u00f5es por voz (3 femininas e 3 masculinas) e melhorias",
+ "date": "2026-10-28T20:23:40.910558+00:00",
+ "sig": "RwKhnuSx17zEHKIohTG11zYledUqJ12Y9YB22KFJFXHDhoQCURpwD3njJFb11eMJZ6kzyr55iHnv1ukXIT36Bw"
 }
