@@ -1,10 +1,10 @@
 {
  "v": 1,
- "version": "2.4",
- "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v2.4/BSO-Overlays-2.4.bso",
- "sha256": "228e1509ceb40866f02643a928f4c1317b05b893f5c3d9c1df5952d3f5556df2",
- "size": 62646560,
- "notes": "Melhorias e corre\u00e7\u00f5es",
- "date": "2026-10-28T21:02:05.415714+00:00",
- "sig": "YhvagZKsAIX81Ty_U2afbblMDzhmKkk2DibH33cc6ki1kiPIOctzf8lwWNLVEEqTc7JnZWgZ358GTEy7-LL8BQ"
+ "version": "2.5",
+ "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v2.5/BSO-Overlays-2.5.bso",
+ "sha256": "70bc32a2fa9d4f20c00e2e5f78040844e353890e611abd19102821ae88fa3a0c",
+ "size": 62647121,
+ "notes": "O numero da versao agora aparece certo no menu; suas configuracoes sao mantidas",
+ "date": "2026-10-28T21:05:43.792583+00:00",
+ "sig": "iioG93C4_tePSa3UXHhrk4VqP8uNUGZqIUa0Zpr4UZ-PVQFFdlOHQ0lypHCQc6I64-lOGDoNNqnqkiiWhDTwCw"
 }
