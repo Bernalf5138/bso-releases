@@ -1,10 +1,10 @@
 {
  "v": 1,
- "version": "4.0",
- "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v4.0/BSO-Overlays-4.0.bso",
- "sha256": "6053e05f79777f373046a822e1d70fb9a23140d7f87ef9409697b1abcafd41f7",
- "size": 62689253,
- "notes": "Bot responde os comandos no chat do TikTok (conta do bot conectada pelo proprio cliente, sessao cifrada)",
- "date": "2026-10-29T16:21:33.702752+00:00",
- "sig": "I_zypHWmDBKCYp8BXO2_6dyWWYmZJhXiSHlZ6w_PkocYeIRZxJ5QP5D-2Iiva_KCkeHY448aPRzT_E_cLXnWBw"
+ "version": "4.4",
+ "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v4.4/BSO-Overlays-4.4.bso",
+ "sha256": "4dee4d45bf928f4a9f7756b0d1a74bc5a2fe4883350eede6f099bde8709cce22",
+ "size": 62691090,
+ "notes": "Bot escreve no chat do TikTok (pela pagina da live, sem enviar a sessao a terceiros); idioma proprio para overlays, cenas e voz; comandos com usuario do Discord",
+ "date": "2026-10-29T16:47:55.511156+00:00",
+ "sig": "1uLSWxVH3usvVbHfcHHZgm1fZXZRi9q2KTm7RdgbL9T9pBv0hCTfynV0_ZqK-MNDeiKNnbo3esWXIPjXvOiGBQ"
 }
