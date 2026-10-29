@@ -1,10 +1,10 @@
 {
  "v": 1,
- "version": "2.7",
- "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v2.7/BSO-Overlays-2.7.bso",
- "sha256": "c2f66554e7cc7c4288dbf3e72ab2f709d0bfdc80ef48c82a14d189c4acb0f9d2",
- "size": 62647600,
- "notes": "Corrige a lista de cenas do Streamlabs que ficava vazia ao clicar em atualizar cenas",
- "date": "2026-10-29T13:20:21.045891+00:00",
- "sig": "tE7eEIwigDxyeF5pgya4DCoQfrs1T0yOrpbtK0hsdp9amYa4OhZub57sjEMpZkuhyEYIoZyEXZwe2FpaVJB0BQ"
+ "version": "2.8",
+ "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v2.8/BSO-Overlays-2.8.bso",
+ "sha256": "b6f3e76d698f9394fca3ed3be416afad24afea0c7c4fac256fe286ce397f5f1d",
+ "size": 62662988,
+ "notes": "Nova colecao de cenas no Streamlabs, cenas Ja vamos comecar/Pause/Fim animadas, 7 overlays animados e Warzone O\\ animado",
+ "date": "2026-10-29T13:47:44.990802+00:00",
+ "sig": "Bo-iRbxxNPkiWPlezQl_VqIdZ3qCVBDDgkoEwg7xEEY5WuxBrY4zA9jix3VdHq_LTr3Qrc9nZWmPGQ-WJt2PDw"
 }
