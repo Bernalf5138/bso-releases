@@ -1,10 +1,10 @@
 {
  "v": 1,
- "version": "4.9",
- "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v4.9/BSO-Overlays-4.9.bso",
- "sha256": "a4fb10ed38cefd0f46e5105a97e6b5d9c09821afdb37062f4b4dff0249e3ff4d",
- "size": 63728369,
- "notes": "Texto da aba Comandos atualizado (resposta no chat da Twitch e do TikTok)",
- "date": "2026-10-29T18:15:20.720944+00:00",
- "sig": "A_vlYaazqF4zJbeabdVsSDE3qA2UyaKxEaTx46gBbqbmRTNyLnyDSbK3OZx9EGYoupHYulr_AtKa-ulThgKgDw"
+ "version": "5.0",
+ "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v5.0/BSO-Overlays-5.0.bso",
+ "sha256": "61b3b15ffa025abe6f5a51c44394a16943317b7ae15162709be6560dff4c061e",
+ "size": 63732410,
+ "notes": "Anunciar doacao (voz, aviso e chat), comandos !alias e !pix, Twitch no app, voz mais alta",
+ "date": "2026-10-29T18:35:03.485736+00:00",
+ "sig": "RcG1SWeCCKqjR80aP4_piIZygFPKEmnFIU-WhXR5mEO57JeOZ9ZVRMoyLRPX5LMy2QLCDcUmkHnsSX5kI8UBDw"
 }
