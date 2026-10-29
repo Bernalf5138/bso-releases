@@ -1,10 +1,10 @@
 {
  "v": 1,
- "version": "3.3",
- "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v3.3/BSO-Overlays-3.3.bso",
- "sha256": "72630845c1769160afa6136694531d238207f7f2022ce0933a9fb5dd96fa6add",
- "size": 62671640,
- "notes": "Nome da camera, titulo do chat e logo sem cortes; controle posicionado sozinho na tela",
- "date": "2026-10-29T15:12:31.112386+00:00",
- "sig": "5QQQoJrmxVB97rWQGPPNFGU55GwKmT_fPnxlQDUAcQyHfU7z6YSTcJtM6DxIFzIBAAmsqiO0misuUILLPZryCg"
+ "version": "3.5",
+ "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v3.5/BSO-Overlays-3.5.bso",
+ "sha256": "eafafc49b091fb6b70b32f5606767f9732c7a0252ccff8332233678c1cd4a4a1",
+ "size": 62677636,
+ "notes": "Ao fechar no X o BSO vai para a bandeja e continua rodando (overlay e bot); clicar no icone abre de novo",
+ "date": "2026-10-29T15:21:01.464537+00:00",
+ "sig": "ebBeJh7SuNeM3IqUuW3gA9yHWGEvj2RYzQpWugOQLa7gKlhUM3v9pI5fnOmgFVSYebn_GyjwbsaL7vcXr6RwAA"
 }
