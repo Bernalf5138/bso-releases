@@ -1,10 +1,10 @@
 {
  "v": 1,
- "version": "3.8",
- "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v3.8/BSO-Overlays-3.8.bso",
- "sha256": "6626e5b1e5b4f8efe33d7dc86160d835c02cbdb5e5d3beb50af65dbf569bc9e5",
- "size": 62682563,
- "notes": "Le os comentarios do chat em voz; cronometros no Painel; logo no lugar do sol; audio e GPU mais leves",
- "date": "2026-10-29T15:59:59.379154+00:00",
- "sig": "6P3u5FJzvecTHS0g5VPwV6Wi9I2_KJHPsKx7EzNGd4iW87iDVstnMQSV8lTjUPoO4QMqKPGIXu4L0WiXgOyTCg"
+ "version": "3.9",
+ "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v3.9/BSO-Overlays-3.9.bso",
+ "sha256": "8f8238521d2451b827f590451e14d25ec7adc3722d7e13f3e537e79c1b5bb425",
+ "size": 62682262,
+ "notes": "Respostas dos comandos aparecem escritas no chat do overlay; chat em todas as cenas; comandos !discord e !bernal separados",
+ "date": "2026-10-29T16:17:10.249261+00:00",
+ "sig": "AXt05-Y9B36LsQuadLl1icRr6KEFZSblQWzHmq27HIOCJSrNwKgXKBer0zPXh8y8PkNBpDgXXaG0vkeNDQl0DQ"
 }
