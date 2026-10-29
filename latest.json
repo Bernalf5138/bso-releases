@@ -1,10 +1,10 @@
 {
  "v": 1,
- "version": "2.5",
- "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v2.5/BSO-Overlays-2.5.bso",
- "sha256": "70bc32a2fa9d4f20c00e2e5f78040844e353890e611abd19102821ae88fa3a0c",
- "size": 62647121,
- "notes": "O numero da versao agora aparece certo no menu; suas configuracoes sao mantidas",
- "date": "2026-10-28T21:05:43.792583+00:00",
- "sig": "iioG93C4_tePSa3UXHhrk4VqP8uNUGZqIUa0Zpr4UZ-PVQFFdlOHQ0lypHCQc6I64-lOGDoNNqnqkiiWhDTwCw"
+ "version": "2.6",
+ "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v2.6/BSO-Overlays-2.6.bso",
+ "sha256": "c32b9a59a8dfa5add2bedce16237e526b5dc6edebd3730c9ff00ac9967eba3ab",
+ "size": 62646399,
+ "notes": "Overlay instalado em camadas separadas no Streamlabs (moldura da camera, chat, barra, placar e avisos), cada uma movel e reordenavel",
+ "date": "2026-10-29T13:15:18.501916+00:00",
+ "sig": "pfvod0z18JX0CQnlQTU2Z4EF_bCQBOhJqbEJNIV8sjT-3NBrKovkpL2Ym260Uci2GocixglvKZWg1ePJ7t_wAQ"
 }
