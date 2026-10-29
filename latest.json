@@ -1,10 +1,10 @@
 {
  "v": 1,
- "version": "2.8",
- "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v2.8/BSO-Overlays-2.8.bso",
- "sha256": "b6f3e76d698f9394fca3ed3be416afad24afea0c7c4fac256fe286ce397f5f1d",
- "size": 62662988,
- "notes": "Nova colecao de cenas no Streamlabs, cenas Ja vamos comecar/Pause/Fim animadas, 7 overlays animados e Warzone O\\ animado",
- "date": "2026-10-29T13:47:44.990802+00:00",
- "sig": "Bo-iRbxxNPkiWPlezQl_VqIdZ3qCVBDDgkoEwg7xEEY5WuxBrY4zA9jix3VdHq_LTr3Qrc9nZWmPGQ-WJt2PDw"
+ "version": "2.9",
+ "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v2.9/BSO-Overlays-2.9.bso",
+ "sha256": "9ab76fb155725a349009671ab595917bb4e88e2d4c9d226683882d8abc5ed98c",
+ "size": 62669576,
+ "notes": "Chat do TikTok dentro da caixa de chat, avisos de seguidor e presente na tela, FC27 e Warzone animados, camera e jogo encaixados sozinhos no Streamlabs",
+ "date": "2026-10-29T14:49:02.565570+00:00",
+ "sig": "_ZlJDsdsZ7TYdtdqVjmls6ft7YBSYBBIr6YV_M-5O-wlCDkeNsLtx_bda4p7HXQWZkr8pJENVg7sdB8IMkzFBg"
 }
