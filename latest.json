@@ -1,10 +1,10 @@
 {
  "v": 1,
- "version": "5.4",
- "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v5.4/BSO-Overlays-5.4.bso",
- "sha256": "7362a664e7e1da6972c8c315f774a8322e40b3095035907ca322d403fde5328b",
- "size": 63742076,
- "notes": "Bot escreve no chat da Twitch de forma confiavel; alias na cena Fim; textos da cena Fim sem quebra feia",
- "date": "2026-10-29T18:59:15.269288+00:00",
- "sig": "97iRflY-VoRDzfUXvAI755iQ5lKYqi5JRfFVMuriqyaO9mzrXkAgKfxBl5QSeHh5KYF10rMesraW_3xm-hB-Aw"
+ "version": "5.5",
+ "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v5.5/BSO-Overlays-5.5.bso",
+ "sha256": "89c8c00cc0653771eed5a9688cf60abde840804d97a5cfe306924454b94af56f",
+ "size": 63741600,
+ "notes": "Bot fala quem pediu o comando e responde marcando a pessoa no chat; chat do overlay volta a atualizar depois de reiniciar o app",
+ "date": "2026-10-29T19:08:45.639735+00:00",
+ "sig": "Mdv7EX1Kkpk40CVZQjTkOaQFnKS7PUXcjdi8T272YnnrSwLG5OchOpZjAnEpPcARLbx-279zJQWEJiledQqaAg"
 }
