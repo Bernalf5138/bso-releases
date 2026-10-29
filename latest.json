@@ -1,10 +1,10 @@
 {
  "v": 1,
- "version": "3.5",
- "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v3.5/BSO-Overlays-3.5.bso",
- "sha256": "eafafc49b091fb6b70b32f5606767f9732c7a0252ccff8332233678c1cd4a4a1",
- "size": 62677636,
- "notes": "Ao fechar no X o BSO vai para a bandeja e continua rodando (overlay e bot); clicar no icone abre de novo",
- "date": "2026-10-29T15:21:01.464537+00:00",
- "sig": "ebBeJh7SuNeM3IqUuW3gA9yHWGEvj2RYzQpWugOQLa7gKlhUM3v9pI5fnOmgFVSYebn_GyjwbsaL7vcXr6RwAA"
+ "version": "3.6",
+ "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v3.6/BSO-Overlays-3.6.bso",
+ "sha256": "a5a1e864abfef04e826796cd7cd6624b8a310b7974473966193f7c747cdeace7",
+ "size": 62678255,
+ "notes": "Live mais leve: fontes do Streamlabs menores e a 30 fps, animacoes mais leves, sem audio duplicado do jogo, painel parado na bandeja",
+ "date": "2026-10-29T15:44:42.343587+00:00",
+ "sig": "P9QuM0L7TfyxMSU_G0rzGOBcsQTzIvmbAxFkvluL-4VGrI8KNjNMwShAtJOWahzkb8nfMKRmVdUc0yNhcMbmDw"
 }
