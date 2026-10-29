@@ -1,10 +1,10 @@
 {
  "v": 1,
- "version": "4.7",
- "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v4.7/BSO-Overlays-4.7.bso",
- "sha256": "1fabaff7735019627aed679fabee7d68aaad2fb817ce9f364350640fa26cc8a3",
- "size": 63719136,
- "notes": "Voz do bot mais alta e escolha da saida de audio; bot do TikTok mais estavel ao iniciar",
- "date": "2026-10-29T17:22:09.729659+00:00",
- "sig": "hNs5WEOQmmyhq5EE47sFMzlAallvsryLHpQFGm6Ip1S6qBagq71DIiU8njz2LVqHY7SJCM0S43YUDWYC2qkaBA"
+ "version": "4.8",
+ "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v4.8/BSO-Overlays-4.8.bso",
+ "sha256": "bb32d78a9a96f86fd7151ad12a4cccdd61b3640fd7df1a6be6b1c947108e898c",
+ "size": 63730812,
+ "notes": "Twitch: chat, comandos, vozes e avisos de bits, subs e raids; bot responde no chat da Twitch; TikTok continua no app",
+ "date": "2026-10-29T17:53:23.155342+00:00",
+ "sig": "3yTvsUZPGIeAj6EyEN-WUBmLQoGO38hd1nOxDO0gKbQKEDZiQSiIMZUTgaWFpNMobSrLjZfqRnoPb8inJ7pDCg"
 }
