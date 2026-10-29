@@ -1,10 +1,10 @@
 {
  "v": 1,
- "version": "4.6",
- "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v4.6/BSO-Overlays-4.6.bso",
- "sha256": "f6b00eb0db53280512fdee49aed59b4d4a670e2b2c6450f5aa59dcd41ddb4ae6",
- "size": 63718572,
- "notes": "Escolha da saida de audio da voz (fone/alto-falantes); bot do TikTok abre a janela do chat ja ao iniciar",
- "date": "2026-10-29T17:16:27.128337+00:00",
- "sig": "1Kq7UdGj21NDDjdspaiZi1IcGI-WzWRDkd6_D8rP1WO78UPAgUsCezPFUqoIUIChsgAxQvM0yaNQrFRSKwkMCg"
+ "version": "4.7",
+ "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v4.7/BSO-Overlays-4.7.bso",
+ "sha256": "1fabaff7735019627aed679fabee7d68aaad2fb817ce9f364350640fa26cc8a3",
+ "size": 63719136,
+ "notes": "Voz do bot mais alta e escolha da saida de audio; bot do TikTok mais estavel ao iniciar",
+ "date": "2026-10-29T17:22:09.729659+00:00",
+ "sig": "hNs5WEOQmmyhq5EE47sFMzlAallvsryLHpQFGm6Ip1S6qBagq71DIiU8njz2LVqHY7SJCM0S43YUDWYC2qkaBA"
 }
