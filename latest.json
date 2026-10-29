@@ -1,10 +1,10 @@
 {
  "v": 1,
- "version": "5.0",
- "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v5.0/BSO-Overlays-5.0.bso",
- "sha256": "61b3b15ffa025abe6f5a51c44394a16943317b7ae15162709be6560dff4c061e",
- "size": 63732410,
- "notes": "Anunciar doacao (voz, aviso e chat), comandos !alias e !pix, Twitch no app, voz mais alta",
- "date": "2026-10-29T18:35:03.485736+00:00",
- "sig": "RcG1SWeCCKqjR80aP4_piIZygFPKEmnFIU-WhXR5mEO57JeOZ9ZVRMoyLRPX5LMy2QLCDcUmkHnsSX5kI8UBDw"
+ "version": "5.2",
+ "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v5.2/BSO-Overlays-5.2.bso",
+ "sha256": "6ba4b54760941eea5ddf69415426b55a743389f3aca6ca364e44452913af52ec",
+ "size": 63739846,
+ "notes": "Meus links ({discord} etc.), doacoes do Streamlabs (opcional), rolagem do painel e do menu corrigida",
+ "date": "2026-10-29T18:48:39.250628+00:00",
+ "sig": "V2P-du1XvXM65ou-bY0BwvWRn4GaTCBEllZPdHTmSxbgmexOUaYtvipO3qTdIdM73xN6JxO9JO0M8hwa5sNqDw"
 }
