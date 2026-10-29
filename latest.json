@@ -1,10 +1,10 @@
 {
  "v": 1,
- "version": "3.6",
- "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v3.6/BSO-Overlays-3.6.bso",
- "sha256": "a5a1e864abfef04e826796cd7cd6624b8a310b7974473966193f7c747cdeace7",
- "size": 62678255,
- "notes": "Live mais leve: fontes do Streamlabs menores e a 30 fps, animacoes mais leves, sem audio duplicado do jogo, painel parado na bandeja",
- "date": "2026-10-29T15:44:42.343587+00:00",
- "sig": "P9QuM0L7TfyxMSU_G0rzGOBcsQTzIvmbAxFkvluL-4VGrI8KNjNMwShAtJOWahzkb8nfMKRmVdUc0yNhcMbmDw"
+ "version": "3.8",
+ "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v3.8/BSO-Overlays-3.8.bso",
+ "sha256": "6626e5b1e5b4f8efe33d7dc86160d835c02cbdb5e5d3beb50af65dbf569bc9e5",
+ "size": 62682563,
+ "notes": "Le os comentarios do chat em voz; cronometros no Painel; logo no lugar do sol; audio e GPU mais leves",
+ "date": "2026-10-29T15:59:59.379154+00:00",
+ "sig": "6P3u5FJzvecTHS0g5VPwV6Wi9I2_KJHPsKx7EzNGd4iW87iDVstnMQSV8lTjUPoO4QMqKPGIXu4L0WiXgOyTCg"
 }
