@@ -1,10 +1,10 @@
 {
  "v": 1,
- "version": "3.9",
- "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v3.9/BSO-Overlays-3.9.bso",
- "sha256": "8f8238521d2451b827f590451e14d25ec7adc3722d7e13f3e537e79c1b5bb425",
- "size": 62682262,
- "notes": "Respostas dos comandos aparecem escritas no chat do overlay; chat em todas as cenas; comandos !discord e !bernal separados",
- "date": "2026-10-29T16:17:10.249261+00:00",
- "sig": "AXt05-Y9B36LsQuadLl1icRr6KEFZSblQWzHmq27HIOCJSrNwKgXKBer0zPXh8y8PkNBpDgXXaG0vkeNDQl0DQ"
+ "version": "4.0",
+ "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v4.0/BSO-Overlays-4.0.bso",
+ "sha256": "6053e05f79777f373046a822e1d70fb9a23140d7f87ef9409697b1abcafd41f7",
+ "size": 62689253,
+ "notes": "Bot responde os comandos no chat do TikTok (conta do bot conectada pelo proprio cliente, sessao cifrada)",
+ "date": "2026-10-29T16:21:33.702752+00:00",
+ "sig": "I_zypHWmDBKCYp8BXO2_6dyWWYmZJhXiSHlZ6w_PkocYeIRZxJ5QP5D-2Iiva_KCkeHY448aPRzT_E_cLXnWBw"
 }
