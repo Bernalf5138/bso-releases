@@ -1,10 +1,10 @@
 {
  "v": 1,
- "version": "4.8",
- "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v4.8/BSO-Overlays-4.8.bso",
- "sha256": "bb32d78a9a96f86fd7151ad12a4cccdd61b3640fd7df1a6be6b1c947108e898c",
- "size": 63730812,
- "notes": "Twitch: chat, comandos, vozes e avisos de bits, subs e raids; bot responde no chat da Twitch; TikTok continua no app",
- "date": "2026-10-29T17:53:23.155342+00:00",
- "sig": "3yTvsUZPGIeAj6EyEN-WUBmLQoGO38hd1nOxDO0gKbQKEDZiQSiIMZUTgaWFpNMobSrLjZfqRnoPb8inJ7pDCg"
+ "version": "4.9",
+ "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v4.9/BSO-Overlays-4.9.bso",
+ "sha256": "a4fb10ed38cefd0f46e5105a97e6b5d9c09821afdb37062f4b4dff0249e3ff4d",
+ "size": 63728369,
+ "notes": "Texto da aba Comandos atualizado (resposta no chat da Twitch e do TikTok)",
+ "date": "2026-10-29T18:15:20.720944+00:00",
+ "sig": "A_vlYaazqF4zJbeabdVsSDE3qA2UyaKxEaTx46gBbqbmRTNyLnyDSbK3OZx9EGYoupHYulr_AtKa-ulThgKgDw"
 }
