@@ -1,10 +1,10 @@
 {
  "v": 1,
- "version": "5.2",
- "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v5.2/BSO-Overlays-5.2.bso",
- "sha256": "6ba4b54760941eea5ddf69415426b55a743389f3aca6ca364e44452913af52ec",
- "size": 63739846,
- "notes": "Meus links ({discord} etc.), doacoes do Streamlabs (opcional), rolagem do painel e do menu corrigida",
- "date": "2026-10-29T18:48:39.250628+00:00",
- "sig": "V2P-du1XvXM65ou-bY0BwvWRn4GaTCBEllZPdHTmSxbgmexOUaYtvipO3qTdIdM73xN6JxO9JO0M8hwa5sNqDw"
+ "version": "5.4",
+ "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v5.4/BSO-Overlays-5.4.bso",
+ "sha256": "7362a664e7e1da6972c8c315f774a8322e40b3095035907ca322d403fde5328b",
+ "size": 63742076,
+ "notes": "Bot escreve no chat da Twitch de forma confiavel; alias na cena Fim; textos da cena Fim sem quebra feia",
+ "date": "2026-10-29T18:59:15.269288+00:00",
+ "sig": "97iRflY-VoRDzfUXvAI755iQ5lKYqi5JRfFVMuriqyaO9mzrXkAgKfxBl5QSeHh5KYF10rMesraW_3xm-hB-Aw"
 }
