@@ -1,10 +1,10 @@
 {
  "v": 1,
- "version": "2.9",
- "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v2.9/BSO-Overlays-2.9.bso",
- "sha256": "9ab76fb155725a349009671ab595917bb4e88e2d4c9d226683882d8abc5ed98c",
- "size": 62669576,
- "notes": "Chat do TikTok dentro da caixa de chat, avisos de seguidor e presente na tela, FC27 e Warzone animados, camera e jogo encaixados sozinhos no Streamlabs",
- "date": "2026-10-29T14:49:02.565570+00:00",
- "sig": "_ZlJDsdsZ7TYdtdqVjmls6ft7YBSYBBIr6YV_M-5O-wlCDkeNsLtx_bda4p7HXQWZkr8pJENVg7sdB8IMkzFBg"
+ "version": "3.0",
+ "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v3.0/BSO-Overlays-3.0.bso",
+ "sha256": "faf3a4fc6230a3ac823ca39b0dc4800c637bb2e241c429c54d365a4a40e535ed",
+ "size": 62669939,
+ "notes": "Corrige a conexao do bot do TikTok; chat do TikTok na caixa de chat; avisos de seguidor e presente; FC27 e Warzone animados; camera e jogo encaixados no Streamlabs",
+ "date": "2026-10-29T14:57:15.274428+00:00",
+ "sig": "K8DQ60g86xUFKU6gUkEG2472ZV2nQZQHbtkCLkM0r296piqJXkg-kndoWKJWFUWHrj2ZAZvpfYCn6VwEHwsgCg"
 }
