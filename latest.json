@@ -1,10 +1,10 @@
 {
  "v": 1,
- "version": "3.1",
- "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v3.1/BSO-Overlays-3.1.bso",
- "sha256": "68cab1fc3a4a6b8ba3c5f0c098e24e24ba8acf0086c0cc5a54039f7b5a3f23e5",
- "size": 62670217,
- "notes": "Jogo preenche a tela inteira e camera/jogo se reencaixam sozinhos no Streamlabs",
- "date": "2026-10-29T15:04:37.608586+00:00",
- "sig": "LkjXxvm-SNx5kisl5PKDPSTwxOwJ5rw-jo9aErn5qKsAKBL-dxCitfQH7K45F914gMlLzRsdebVXlGbDfubfAw"
+ "version": "3.3",
+ "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v3.3/BSO-Overlays-3.3.bso",
+ "sha256": "72630845c1769160afa6136694531d238207f7f2022ce0933a9fb5dd96fa6add",
+ "size": 62671640,
+ "notes": "Nome da camera, titulo do chat e logo sem cortes; controle posicionado sozinho na tela",
+ "date": "2026-10-29T15:12:31.112386+00:00",
+ "sig": "5QQQoJrmxVB97rWQGPPNFGU55GwKmT_fPnxlQDUAcQyHfU7z6YSTcJtM6DxIFzIBAAmsqiO0misuUILLPZryCg"
 }
