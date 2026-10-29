@@ -1,10 +1,10 @@
 {
  "v": 1,
- "version": "5.7",
- "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v5.7/BSO-Overlays-5.7.bso",
- "sha256": "a134181c7892a38099b368d2713e52f67dfb09f0561d5aaf253048f08be319e9",
- "size": 63749647,
- "notes": "Voz do bot entra na live; mensagens automaticas no chat (sem voz); links editaveis no painel",
- "date": "2026-10-29T19:16:41.213748+00:00",
- "sig": "eZgm5UlYBv6PkS0PBkVdpEC2EB4cmyT9ZvFIpd15W0nbUneh31GfdBqQHsdLGwASvt-MDnRa5omm_0EZ45nRDQ"
+ "version": "5.8",
+ "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v5.8/BSO-Overlays-5.8.bso",
+ "sha256": "e7bf64fa5bfaf0822240871b0ea388bbd2a06c9106c8ec2a9308327632e78c7e",
+ "size": 63748999,
+ "notes": "Bot da Twitch escreve no chat sem depender de janela (token guardado cifrado); respostas dos comandos funcionando",
+ "date": "2026-10-29T21:13:00.010277+00:00",
+ "sig": "HGpHRGBThSxE91PTzV6NrALEiLR3uV695NeoIdMvG5NhUf-yFeFCj-NtDzopqDqZ5MsL1eLHyZE1NX4bIT0mAQ"
 }
