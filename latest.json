@@ -1,10 +1,10 @@
 {
  "v": 1,
- "version": "2.6",
- "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v2.6/BSO-Overlays-2.6.bso",
- "sha256": "c32b9a59a8dfa5add2bedce16237e526b5dc6edebd3730c9ff00ac9967eba3ab",
- "size": 62646399,
- "notes": "Overlay instalado em camadas separadas no Streamlabs (moldura da camera, chat, barra, placar e avisos), cada uma movel e reordenavel",
- "date": "2026-10-29T13:15:18.501916+00:00",
- "sig": "pfvod0z18JX0CQnlQTU2Z4EF_bCQBOhJqbEJNIV8sjT-3NBrKovkpL2Ym260Uci2GocixglvKZWg1ePJ7t_wAQ"
+ "version": "2.7",
+ "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v2.7/BSO-Overlays-2.7.bso",
+ "sha256": "c2f66554e7cc7c4288dbf3e72ab2f709d0bfdc80ef48c82a14d189c4acb0f9d2",
+ "size": 62647600,
+ "notes": "Corrige a lista de cenas do Streamlabs que ficava vazia ao clicar em atualizar cenas",
+ "date": "2026-10-29T13:20:21.045891+00:00",
+ "sig": "tE7eEIwigDxyeF5pgya4DCoQfrs1T0yOrpbtK0hsdp9amYa4OhZub57sjEMpZkuhyEYIoZyEXZwe2FpaVJB0BQ"
 }
