@@ -1,10 +1,10 @@
 {
  "v": 1,
- "version": "5.9",
- "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v5.9/BSO-Overlays-5.9.bso",
- "sha256": "6e0d187e8e69a26f690ee095af1c53bd7c77fef69509252b6652fbd65afc8106",
- "size": 63750993,
- "notes": "Licenca vencida ou suspensa: overlays e cenas somem e mostram aviso para pagar a mensalidade; bot e vozes ficam quietos",
- "date": "2026-10-30T18:49:38.413723+00:00",
- "sig": "97m5fruneC3uq4Gx1jomfNEJpEkrshuzU7gPT1uN--rh5T9GHIi7wMJoM4vaq5ACer4vYp-XpxSTwWNYq6DcCw"
+ "version": "6.0",
+ "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v6.0/BSO-Overlays-6.0.bso",
+ "sha256": "af570c1ea4ea32a0368e4b91d9e63f0d8c91887e42eb783617a20e246f2c8b7c",
+ "size": 63749701,
+ "notes": "Sem licenca ativa o overlay e as cenas nao aparecem na live (so a previa dentro do app); apagar arquivos nao libera o uso",
+ "date": "2026-10-30T18:55:23.329119+00:00",
+ "sig": "bBS75xIz9pzaOMXwsxxWzEoxNGQJqPeYYf3tKwmQOh6ftUNEr--dmTiBzrclVmBiQigqTvleyjQof5pboGvuBQ"
 }
