@@ -1,10 +1,10 @@
 {
  "v": 1,
- "version": "6.0",
- "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v6.0/BSO-Overlays-6.0.bso",
- "sha256": "af570c1ea4ea32a0368e4b91d9e63f0d8c91887e42eb783617a20e246f2c8b7c",
- "size": 63749701,
- "notes": "Sem licenca ativa o overlay e as cenas nao aparecem na live (so a previa dentro do app); apagar arquivos nao libera o uso",
- "date": "2026-10-30T18:55:23.329119+00:00",
- "sig": "bBS75xIz9pzaOMXwsxxWzEoxNGQJqPeYYf3tKwmQOh6ftUNEr--dmTiBzrclVmBiQigqTvleyjQof5pboGvuBQ"
+ "version": "6.1",
+ "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v6.1/BSO-Overlays-6.1.bso",
+ "sha256": "7a7ce394f93cb00b1cfe1bca2dade9bf0f25a891b62b8c49b648377ee0821615",
+ "size": 63755197,
+ "notes": "Idioma completo (ES/EN) nos textos do painel, cenas especiais e chat; logo do cliente no lugar do sol",
+ "date": "2026-10-31T02:28:44.558623+00:00",
+ "sig": "aOICPuAEeLkFfXf6NU89_-C9YCoean589v6QdyWltsIxbQ7q7tkGd6c9WZmuZ68v-1ENR8JnFYcfJf2RaqyNCQ"
 }
