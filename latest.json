@@ -1,10 +1,10 @@
 {
  "v": 1,
- "version": "6.2",
- "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v6.2/BSO-Overlays-6.2.bso",
- "sha256": "8f22ce27ab4decd97c7b53b59b7fabf7b33a31def858ca8d71d282cd9d3e7438",
- "size": 63755885,
- "notes": "Corrige as cenas especiais (6.1) e completa o idioma ES/EN",
- "date": "2026-10-31T02:32:26.318032+00:00",
- "sig": "mC4ETn5CL1un45ceQq9GztIFzyIC7Nj3CPXPn73Usq3ZMtoSqfmMPdnoAcmjolQingVTvwfG3G6iUs5CLxw-BQ"
+ "version": "6.3",
+ "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v6.3/BSO-Overlays-6.3.bso",
+ "sha256": "bdbf3c857fe5ec5a392e8bb32adef5c07386ea7b3bf4ade5fae74c1193012070",
+ "size": 63756976,
+ "notes": "Marcadores do placar: o cliente adiciona ou remove (ex.: so WINS ou mais contadores)",
+ "date": "2026-10-31T02:49:58.602753+00:00",
+ "sig": "gOcn5jqGVhd5iKO8kL-DkOsFBkH7HRKHnpW2ARZwqwJbnSYxzZcb4xIfPSoj348jJNzWRyD7prP3Tb5snLNQCg"
 }
