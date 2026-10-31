@@ -1,10 +1,10 @@
 {
  "v": 1,
- "version": "6.3",
- "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v6.3/BSO-Overlays-6.3.bso",
- "sha256": "bdbf3c857fe5ec5a392e8bb32adef5c07386ea7b3bf4ade5fae74c1193012070",
- "size": 63756976,
- "notes": "Marcadores do placar: o cliente adiciona ou remove (ex.: so WINS ou mais contadores)",
- "date": "2026-10-31T02:49:58.602753+00:00",
- "sig": "gOcn5jqGVhd5iKO8kL-DkOsFBkH7HRKHnpW2ARZwqwJbnSYxzZcb4xIfPSoj348jJNzWRyD7prP3Tb5snLNQCg"
+ "version": "6.4",
+ "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v6.4/BSO-Overlays-6.4.bso",
+ "sha256": "36d848b4cd1790a3895db3f89b477a259edf3691a721c3679e5975e6e4283022",
+ "size": 63756856,
+ "notes": "Corrige a aba Cenas Especiais e o bot do TikTok no painel; cena Fim esconde linhas sem link",
+ "date": "2026-10-31T02:55:53.707337+00:00",
+ "sig": "3xLaDLizAVi5r2bfFnH7_nhUk_Dzle2tm9i5wxaznf4Iyka3gCh7Ha0cXBOLryYSDDrXjHd-2p2yw1GSe8mcDg"
 }
