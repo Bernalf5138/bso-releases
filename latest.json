@@ -1,10 +1,10 @@
 {
  "v": 1,
- "version": "6.1",
- "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v6.1/BSO-Overlays-6.1.bso",
- "sha256": "7a7ce394f93cb00b1cfe1bca2dade9bf0f25a891b62b8c49b648377ee0821615",
- "size": 63755197,
- "notes": "Idioma completo (ES/EN) nos textos do painel, cenas especiais e chat; logo do cliente no lugar do sol",
- "date": "2026-10-31T02:28:44.558623+00:00",
- "sig": "aOICPuAEeLkFfXf6NU89_-C9YCoean589v6QdyWltsIxbQ7q7tkGd6c9WZmuZ68v-1ENR8JnFYcfJf2RaqyNCQ"
+ "version": "6.2",
+ "url": "https://github.com/Bernalf5138/bso-releases/releases/download/v6.2/BSO-Overlays-6.2.bso",
+ "sha256": "8f22ce27ab4decd97c7b53b59b7fabf7b33a31def858ca8d71d282cd9d3e7438",
+ "size": 63755885,
+ "notes": "Corrige as cenas especiais (6.1) e completa o idioma ES/EN",
+ "date": "2026-10-31T02:32:26.318032+00:00",
+ "sig": "mC4ETn5CL1un45ceQq9GztIFzyIC7Nj3CPXPn73Usq3ZMtoSqfmMPdnoAcmjolQingVTvwfG3G6iUs5CLxw-BQ"
 }
