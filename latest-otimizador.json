@@ -1,10 +1,10 @@
 {
  "v": 1,
- "version": "10.8",
- "url": "https://github.com/Bernalf5138/bso-releases/releases/download/otimizador-v10.8/Bernal-Otimizacoes-10.8.bot",
- "sha256": "a59951da7f9287f71d4622b7d1f0b4693c7db48cf5705dff7a1ddbec7ac8fd9e",
- "size": 108379046,
+ "version": "10.9",
+ "url": "https://github.com/Bernalf5138/bso-releases/releases/download/otimizador-v10.9/Bernal-Otimizacoes-10.9.bot",
+ "sha256": "69fd4f0abf49c395a037baf81218da04f3fcf498289605ad1a81d2ea54c12be8",
+ "size": 120323528,
  "notes": "Melhorias e corre\u00e7\u00f5es",
- "date": "2026-11-12T16:08:45.127723+00:00",
- "sig": "UzYPSpq7TlqAOJ4CC3fO_pH4YykeXtsS4Hc5lBNYiHvFjdaEVNHVy78VjOvUl7u_6m1IY0Y0UHV3tKPt3EH5Cg"
+ "date": "2026-11-12T16:36:53.090677+00:00",
+ "sig": "mmf0-fmHxNrAqK4RHRY0ODzJ-4i3fBw2Q_wReAiayLp6gQeVazCBFNbgZFxOBeYCOPmek_4mW38vb-eF1R1ZCQ"
 }
