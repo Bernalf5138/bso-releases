@@ -1,10 +1,10 @@
 {
  "v": 1,
- "version": "11.2",
- "url": "https://github.com/Bernalf5138/bso-releases/releases/download/otimizador-v11.2/Bernal-Otimizacoes-11.2.bot",
- "sha256": "b6dff084afc475e25377dfc49dedfe407cb00f2ab12c88a374aff8ea55f2ede6",
- "size": 120326324,
- "notes": "Melhorias e corre\u00e7\u00f5es",
- "date": "2026-11-12T17:15:01.204034+00:00",
- "sig": "HhLPDHc--vgNL0vLW62nwT_ek7xufXBwVyJ9-BwsAgXDkAk7tEmHJ08-0KV6C1_OzyZBs7QXfWvROHcBxHS_Aw"
+ "version": "11.3",
+ "url": "https://github.com/Bernalf5138/bso-releases/releases/download/otimizador-v11.3/Bernal-Otimizacoes-11.3.bot",
+ "sha256": "d1296b6a32a70cc8f409f8d286e67ea94d85937f7f2709f8fcd750730399110e",
+ "size": 120326481,
+ "notes": "Atualiza\u00e7\u00e3o sem CMD, app abre sozinho e nome com a vers\u00e3o.",
+ "date": "2026-11-12T17:21:30.779064+00:00",
+ "sig": "wvxDkImQc3oXsJdC6Fc8thN2kePNGt3M8ViWrbCruYNADY7j2kUSYVoV3M2aK8HuCIqiKdAwf6vfyrSJIcV-BA"
 }
