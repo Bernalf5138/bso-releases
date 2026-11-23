@@ -1,10 +1,10 @@
 {
  "v": 1,
- "version": "11.7",
- "url": "https://github.com/Bernalf5138/bso-releases/releases/download/otimizador-v11.7/Bernal-Otimizacoes-11.7.bot",
- "sha256": "063eb0de826de8c4fc94e3d8df5da30b9ce5a3c479ea5104c5c65a4eb6a63504",
- "size": 120445014,
- "notes": "Melhorias e corre\u00e7\u00f5es",
- "date": "2026-11-23T17:45:37.843835+00:00",
- "sig": "1eawzoOdmla64oV_D-Ze1KDCh1y3dX4ojArU2slYOl4-4LVMb_oeaSx0d1t4JJlkF_StM40j8Lnf3XusM4KeBg"
+ "version": "11.8",
+ "url": "https://github.com/Bernalf5138/bso-releases/releases/download/otimizador-v11.8/Bernal-Otimizacoes-11.8.bot",
+ "sha256": "c438c76b63b4cf336c4750c760f88157702677ec74a180d1a493fa1624b396a5",
+ "size": 120444133,
+ "notes": "Licen\u00e7a e atualiza\u00e7\u00e3o mais resistentes a troca de endere\u00e7o do servidor.",
+ "date": "2026-11-23T17:52:43.940627+00:00",
+ "sig": "16eSXCVnyS4eDStzppAlvQMZ7nUAcD35K1g1MYxwPpVFGidnoB135tA1wx13NqazUVo93kj0tKK8ohAcUR8eBw"
 }
