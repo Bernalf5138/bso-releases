@@ -1,10 +1,10 @@
 {
  "v": 1,
- "version": "11.5",
- "url": "https://github.com/Bernalf5138/bso-releases/releases/download/otimizador-v11.5/Bernal-Otimizacoes-11.5.bot",
- "sha256": "65b5ac437aa10d0a7ca48e5710d1bb9a1ea51bc23214d23da36218bd51c40853",
- "size": 120440850,
- "notes": "App em 3 idiomas (PT/ES/EN) e melhorias na Sa\u00fade do Disco.",
- "date": "2026-11-23T17:06:54.289867+00:00",
- "sig": "upsDtXFCWhfDAwyDBlCRhLcxGf7kayiwfwgUiB5daNF7erQvYFJPpeZam17oblqRq630VHWuvvVjdFH_6uqbCg"
+ "version": "11.6",
+ "url": "https://github.com/Bernalf5138/bso-releases/releases/download/otimizador-v11.6/Bernal-Otimizacoes-11.6.bot",
+ "sha256": "aa28b77de64794b85d6bf678e8be56490b7e067ebfd8522cdfff3ae0eb3ad910",
+ "size": 120442057,
+ "notes": "Janela de progresso com bot\u00e3o minimizar.",
+ "date": "2026-11-23T17:27:44.317544+00:00",
+ "sig": "QbqtYidBQXQKRH7DPgegXl6TNNc6FxTZ3rpjDb-ujwEQvTTDhiROTpYbkSZZhCCwKGvson4t7qEiU-WaLT7OAA"
 }
