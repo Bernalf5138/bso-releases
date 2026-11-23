@@ -1,10 +1,10 @@
 {
  "v": 1,
- "version": "11.4",
- "url": "https://github.com/Bernalf5138/bso-releases/releases/download/otimizador-v11.4/Bernal-Otimizacoes-11.4.bot",
- "sha256": "0bd1a9dcec9bf3e768f389bf89bee7f0cf5863a8924b112e868765f16140a4b4",
- "size": 120338868,
- "notes": "Nova aba Sa\u00fade do Disco: analisa HDs e SSDs e ajuda eles a durarem mais.",
- "date": "2026-11-23T16:20:17.977916+00:00",
- "sig": "MskW1mMR8THHlOSTGYw65DmIlLlODucWrlCD6V03Dp7fx5eWlWYhHMBoXwZPa20si0bp4KGCYb9jtJhQxF4iAg"
+ "version": "11.5",
+ "url": "https://github.com/Bernalf5138/bso-releases/releases/download/otimizador-v11.5/Bernal-Otimizacoes-11.5.bot",
+ "sha256": "65b5ac437aa10d0a7ca48e5710d1bb9a1ea51bc23214d23da36218bd51c40853",
+ "size": 120440850,
+ "notes": "App em 3 idiomas (PT/ES/EN) e melhorias na Sa\u00fade do Disco.",
+ "date": "2026-11-23T17:06:54.289867+00:00",
+ "sig": "upsDtXFCWhfDAwyDBlCRhLcxGf7kayiwfwgUiB5daNF7erQvYFJPpeZam17oblqRq630VHWuvvVjdFH_6uqbCg"
 }
